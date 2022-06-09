@@ -1,7 +1,7 @@
-[![MasterHead](https://user-images.githubusercontent.com/98620685/172761432-2e6a146d-47fe-40a3-810a-49baad34d7bb.png)
+![MasterHead](https://user-images.githubusercontent.com/98620685/172761432-2e6a146d-47fe-40a3-810a-49baad34d7bb.png)
 <h1 align="center">Hola 👋, mi nombre es Liliana</h1>
 <h3 align="justify">Soy una Front-End Developer👩‍💻 y me encanta aprender constantemente para desarrollar hermosos proyectos utilizando tecnologías como HTML, CSS, JavaScript, Firebase y también con tecnologías de back end como  Node.js. Estoy familiarizada con el uso de herramientas de diseño como Figma y Photoshop. Si necesitas mi apoyo no dudes en escribirme, estamos a un click de distancia.</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/98620685/172739804-ed18e61d-3736-4a13-95ba-82ca450051d5.png">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/98620685/172763447-c7b4066d-1165-44aa-af16-1003e6744d02.png">
 
 - 🔭Actualmente trabajando en [md-links](https://github.com/lilianaEstefanyPachari/LIM017-md-links)
 
