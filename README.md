@@ -5,7 +5,7 @@
 
 - 🔭Actualmente trabajando en [Cotton Notes](https://github.com/lilianaEstefanyPachari/LIM017-notes)
 
-- 🌱 Actualmente aprendiendo **React, Tailwind**
+- 🌱 Aprendiendo **React y Tailwind.**
 
 - 👨‍💻 Portafolio (en construcción)
 
