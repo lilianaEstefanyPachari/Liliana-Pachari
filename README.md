@@ -3,9 +3,9 @@
 <h3 align="justify">Soy una Front-End Developer👩‍💻 y me encanta aprender constantemente para desarrollar hermosos proyectos utilizando tecnologías como HTML, CSS, JavaScript, Firebase y también con tecnologías de back end como  Node.js. Estoy familiarizada con el uso de herramientas de diseño como Figma y Photoshop. Si necesitas mi apoyo no dudes en escribirme.</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/98620685/172763447-c7b4066d-1165-44aa-af16-1003e6744d02.png">
 
-- 🔭Actualmente trabajando en [Burger-queen-app](https://github.com/lilianaEstefanyPachari/LIM017-burger-queen-api-client)
+- 🔭Actualmente trabajando en [Cotton Notes](https://github.com/lilianaEstefanyPachari/LIM017-notes)
 
-- 🌱 Actualmente aprendiendo **Angular, Bootstrap**
+- 🌱 Actualmente aprendiendo **React, Tailwind**
 
 - 👨‍💻 Portafolio (en construcción)
 
