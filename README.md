@@ -7,7 +7,7 @@
 
 - 🌱 Aprendiendo **React y Tailwind.**
 
-- 👨‍💻 Portafolio (en construcción)
+- 👨‍💻 [Portafolio](https://portafolio-lili.vercel.app/)
 
 - 📫 Contacto **lilianapachari01@gmail.com**
 
